@@ -1,0 +1,3 @@
+[submodule "thirdparty/zwoparse"]
+	path = thirdparty/zwoparse
+	url = https://github.com/mhanney/zwoparse
